@@ -28,9 +28,6 @@ Through this project, I practiced:
 - Using NumPy for numerical operations
 - Calculating basic statistical summaries
 
-## Preview
-![Basic data analysis](Screenshot.png)
-
 ## 📂 Project Structure
 
 ```text

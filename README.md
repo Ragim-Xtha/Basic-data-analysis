@@ -29,7 +29,7 @@ Through this project, I practiced:
 - Calculating basic statistical summaries
 
 ## Preview
-![Basic data analysis](screenshots/analysis.png)
+![Basic data analysis](Screenshot.png)
 
 ## 📂 Project Structure
 

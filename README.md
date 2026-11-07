@@ -4,7 +4,7 @@
 
 This project focuses on performing basic data analysis using Python's popular data analysis libraries, **Pandas** and **NumPy**.
 
-The main objective of this project is to explore a dataset, understand its structure, perform basic data manipulation, and extract useful information through simple analytical operations.
+The main objective of this project is to explore a dataset, understand its structure, perform basic data manipulation, and extract useful information through simple analytical operations. Also, to do basic pre-processing of data 
 
 This is a beginner-level project created to strengthen my understanding of data analysis and Python libraries.
 

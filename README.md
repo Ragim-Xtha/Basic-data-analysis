@@ -28,18 +28,7 @@ Through this project, I practiced:
 - Using NumPy for numerical operations
 - Calculating basic statistical summaries
 
-## 📂 Project Structure
 
-```text
-Basic-Data-Analysis/
-│
-├── data/
-│   └── dataset.csv
-│
-├── analysis.ipynb
-│
-└── README.md
-```
 
 *Note: The folder structure may vary depending on the project files.*
 
